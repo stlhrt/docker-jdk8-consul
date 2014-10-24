@@ -1,6 +1,10 @@
 {
 	"data_dir": "/opt/consul/data",
+<<<<<<< HEAD
 	"client_addr": "0.0.0.0",
 	"leave_on_terminate": true,
 	"disable_update_check ": true
+=======
+	"client_addr": "0.0.0.0"
+>>>>>>> master
 }
